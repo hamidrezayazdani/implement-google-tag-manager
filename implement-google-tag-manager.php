@@ -27,7 +27,7 @@ class Implement_Google_Tag_Manager {
      *
      * @var string
      */
-    private $gtm_id = 'GTM-XXXXXXX';
+    private $gtm_id = 'GTM-XXXXXXX'; // Replace with your GTM
 
     /**
      * Constructor.
